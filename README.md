@@ -11,15 +11,9 @@ In this project, we apply Data Modeling with Postgres and build an ETL pipeline 
 
 Link:[https://github.com/ZhengyuOfficial/The-Road-To-Data-Engineering./tree/main/ETL]
 
-# Project 2: Data Modeling with Cassandra
-In this project, we apply Data Modeling with Cassandra and build an ETL pipeline using Python. We will build a Data Model around our queries that we want to get answers for. For our use case we want below answers:
-
-Get details of a song that was herad on the music app history during a particular session.
-Get songs played by a user during particular session on music app.
-Get all users from the music app history who listened to a particular song.
-
-# Project 3: Data Warehouse
+# Project 2: Data Warehouse
 In this project, we apply the Data Warehouse architectures we learnt and build a Data Warehouse on AWS cloud. We build an ETL pipeline to extract and transform data stored in json format in s3 buckets and move the data to Warehouse hosted on Amazon Redshift.
+Link:[https://github.com/ZhengyuOfficial/Road2DE/tree/main/WareHouse]
 
 # Project 4: Data Lake
 In this project, we will build a Data Lake on AWS cloud using Spark and AWS EMR cluster. The data lake will serve as a Single Source of Truth for the Analytics Platform. We will write spark jobs to perform ELT operations that picks data from landing zone on S3 and transform and stores data on the S3 processed zone.
