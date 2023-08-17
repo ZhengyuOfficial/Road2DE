@@ -13,11 +13,11 @@ Note that there might be something wrong with time zone!
 After you successfully run the Redshift Iac script, you should run two .py file:
 - To create the tables to AWS Redshift
 
-    python3 create_tables.py
+-     python3 create_tables.py
 
 - To process all the inut data to the database in Redshift
 
-    python3 etl.py
+-     python3 etl.py
 
 Do not forget to complete the DWH config(dwh.config) before run two .py files!
 
