@@ -6,7 +6,9 @@ To access AWS, you need to do in AWS the following:
 - Get ARN
 - Create and run Redshift cluster
 
-You can use Redshift IaC script to achieve above goals. The script README Link is [https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/Redshift_IaC_README.md]
+You can use Redshift IaC script to achieve above goals. 
+
+The script README Link is [https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/Redshift_IaC_README.md]
 
 Note that there might be something wrong with time zone!
 
