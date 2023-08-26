@@ -22,7 +22,7 @@ In this project, we will build a Data Lake on AWS cloud using Spark and AWS EMR 
 # Project 4: Data Pipelines with Airflow(Pending)
 In this project, we will orchestrate our Data Pipeline workflow using an open-source Apache project called Apache Airflow. We will schedule our ETL jobs in Airflow, create project related custom plugins and operators and automate the pipeline execution.
 
-# roject 5: Api Data to Postgres(Pending)
+# Project 5: Api Data to Postgres(Pending)
 In this project, we build an etl pipeline to fetch data from yelp API and insert it into the Postgres Database. This project is a very basic example of fetching real time data from an open source API.
 
 
